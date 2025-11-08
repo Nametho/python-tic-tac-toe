@@ -35,3 +35,31 @@ This project demonstrates proficiency in several key Python concepts:
 
 ```bash
 python3 tictactoe.py
+```
+
+---
+
+### Example Gameplay
+
+----PLATEAU-----
+['▢', '▢', '▢']
+['▢', '▢', '▢']
+['▢', '▢', '▢']
+[Joueur X] Choisissez une case :
+Horizontal (A,B,C): A
+Vertical (1,2,3): 1
+----PLATEAU-----
+['X', '▢', '▢']
+['▢', '▢', '▢']
+['▢', '▢', '▢']
+[Joueur O] Choisissez une case :
+Horizontal (A,B,C): B
+Vertical (1,2,3): 2
+----PLATEAU-----
+['X', '▢', '▢']
+['▢', 'O', '▢']
+['▢', '▢', '▢']
+[Joueur X] Choisissez une case :
+Horizontal (A,B,C): A
+Vertical (1,2,3): 1
+La case A1 est déjà occupée
