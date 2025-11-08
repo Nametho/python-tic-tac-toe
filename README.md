@@ -40,7 +40,7 @@ python3 tictactoe.py
 ---
 
 ### Example Gameplay
-
+```
 ----PLATEAU-----
 ['▢', '▢', '▢']
 ['▢', '▢', '▢']
@@ -63,3 +63,4 @@ Vertical (1,2,3): 2
 Horizontal (A,B,C): A
 Vertical (1,2,3): 1
 La case A1 est déjà occupée
+```
